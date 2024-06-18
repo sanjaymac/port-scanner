@@ -10,7 +10,7 @@ This is a simple port scanner written in Python. It scans a range of ports on a 
 2. Run the Script
    python prjct_port_scanner.py
 3. Enter the IP address, start port, and end port when prompted.
-   $ python modified_port_scanner.py
+   $ python prjct_port_scanner.py
    Enter IP address to scan: 192.168.1.1
    Enter start port: 1
    Enter end port: 100
