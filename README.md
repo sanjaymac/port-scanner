@@ -19,7 +19,7 @@ This is a simple port scanner written in Python. It scans a range of ports on a 
    Port 80 is open on 192.168.1.1
 
 ## Requirements
-. Python 3.x
+Python 3.x
 
 
 
