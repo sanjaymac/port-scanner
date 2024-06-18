@@ -22,6 +22,9 @@ This is a simple port scanner written in Python. It scans a range of ports on a 
 Python 3.x
 
 
+## License
+This project is licensed under the MIT License.
+
 
 
 
